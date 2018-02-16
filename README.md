@@ -5,7 +5,7 @@ API de venta de artículos de segunda mano.
 ## Instalación
 ### Descarga del Backend
 	$ git clone https://github.com/joselja/Practica-WEB_API.git
-	$ cd nodepop
+	$ cd Practica-WEB_API
 	$ npm install
 	
 ### Instalación de la Base de Datos
