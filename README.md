@@ -4,7 +4,7 @@ API de venta de artículos de segunda mano.
 
 ## Instalación
 ### Descarga del Backend
-	$ git clone https://github.com/joselja/P2.git nodepop
+	$ git clone https://github.com/joselja/Practica-WEB_API.git
 	$ cd nodepop
 	$ npm install
 	
