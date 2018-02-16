@@ -24,7 +24,7 @@ API de venta de artículos de segunda mano.
                         Ejemplo: Buscar todos los anuncios cuyo nombre empiece por B:
                         http://localhost:3000/apiv1/anuncios?nombre=B
 
-        * **venta [ YES | NO ]**: Se filtraran los anuncios en venta si el parámetro es YES o los anuncios en compra si el parámetro es NO.
+        * **venta [ true | false ]**: Se filtraran los anuncios en venta si el parámetro es true o los anuncios en compra si el parámetro es false.
                         Ejemplo: Buscar todos los anuncios que se vendan:
                         http://localhost:3000/apiv1/anuncios?venta=true
 
