@@ -17,7 +17,13 @@ API de venta de artículos de segunda mano.
 ### Arrancar el API
 	$ npm start
 
-## Operaciones disponibles
+## Operaciones disponibles para la web. http://localhost:3000/anuncios
+- **Ejemplos de algunas operaciones**
+	http://localhost:3000/anuncios?precio=1000-
+	http://localhost:3000/anuncios?start=1&limit=3
+	http://localhost:3000/anuncios?start=1&limit=3&tag=lifestyle
+	
+## Operaciones disponibles para el api. http://localhost:3000/apiv1
 - **Lista de anuncios** - Búsqueda de anuncios, métodos GET
     - **Filtros disponibles (paginada, con filtros de búsqueda)**
         * **nombre**: Se filtraran los anuncios por el nombre indicado o por las primeras letras del nombre.
