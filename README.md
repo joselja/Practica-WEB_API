@@ -23,7 +23,7 @@ API de venta de artículos de segunda mano.
 	* **mostrar solo 3 anuncios** http://localhost:3000/anuncios?start=1&limit=3
 	* **mostrar solo 3 anuncios del tag lifestyle** http://localhost:3000/anuncios?start=1&limit=3&tag=lifestyle
 	
-## Operaciones disponibles para el api. http://localhost:3000/apiv1
+## Operaciones disponibles para el api. http://localhost:3000/apiv1/anuncios
 - **Lista de anuncios** - Búsqueda de anuncios, métodos GET
     - **Filtros disponibles (paginada, con filtros de búsqueda)**
         * **nombre**: Se filtraran los anuncios por el nombre indicado o por las primeras letras del nombre.
