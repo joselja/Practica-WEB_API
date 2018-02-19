@@ -19,9 +19,9 @@ API de venta de artículos de segunda mano.
 
 ## Operaciones disponibles para la web. http://localhost:3000/anuncios
 - **Ejemplos de algunas operaciones**
-	http://localhost:3000/anuncios?precio=1000-
-	http://localhost:3000/anuncios?start=1&limit=3
-	http://localhost:3000/anuncios?start=1&limit=3&tag=lifestyle
+	* **anuncios con precio superior a 1000 ** http://localhost:3000/anuncios?precio=1000-
+	* **mostrar solo 3 anuncios** http://localhost:3000/anuncios?start=1&limit=3
+	* **mostrar solo 3 anuncios del tag lifestyle** http://localhost:3000/anuncios?start=1&limit=3&tag=lifestyle
 	
 ## Operaciones disponibles para el api. http://localhost:3000/apiv1
 - **Lista de anuncios** - Búsqueda de anuncios, métodos GET
