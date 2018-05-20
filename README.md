@@ -2,6 +2,11 @@
 
 API de venta de artículos de segunda mano.
 
+## Práctica DEVOPS
+Despliegue en AWS: http://ec2-34-247-33-55.eu-west-1.compute.amazonaws.com/
+		   http://34.247.33.55/
+
+
 ## Instalación
 ### Descarga del Backend
 	$ git clone https://github.com/joselja/Practica-WEB_API.git
